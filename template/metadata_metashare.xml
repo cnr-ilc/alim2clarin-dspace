@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="metashare">
+  <dcvalue element="ResourceInfo#ContentInfo" qualifier="mediaType" language="en_US">text</dcvalue>
+</dublin_core>
